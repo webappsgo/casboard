@@ -1116,3 +1116,4 @@ The single binary includes:
 **Binary size: ~15-20MB with all resources embedded**
 
 This creates a truly portable, self-contained image board system that can be run with a single command on any supported platform.
+
